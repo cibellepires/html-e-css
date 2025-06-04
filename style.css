@@ -1,14 +1,12 @@
-      
-      @charset "UTF-8";
-      
-      
-         body{background-color: blanchedalmond;
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 20px;}
+@charset "UTF-8";
+* {font-family: Arial, Helvetica, sans-serif;}
 
-         h1{color: brown;
-             background-color: antiquewhite;}
-         h2{color:black;}
-         p{text-align: justify;}
+body{background-image: linear-gradient(to right, #f1d8c9, #f2c3a7);}
 
-    
+main{background-color: white; border-radius:10px; box-shadow: 10px, 10px, 10px black; width:700px; padding:20px; margin:auto; }
+
+p{ text-align: justify;}
+
+h1{color: #f39209; text-shadow:1px 1px 2px rgb(107, 67, 10);}
+
+h2{color:#125189;}
